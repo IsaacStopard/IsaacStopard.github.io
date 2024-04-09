@@ -10,4 +10,4 @@ I am currently a research associate in the malaria modelling group. Recent work 
 # HIV
 Under the supervision of [Prof Timothy Hallett](https://www.imperial.ac.uk/people/timothy.hallett) and [Dr Jessica McGillen](https://scholar.google.com/citations?user=GUMB_uoAAAAJ&hl=en&oi=ao), at the HIV Modelling Consortium, we investigated the impact of failing to consider constraints to allocative and technical efficiency (in our case hypothetical) on the advice given by modellers. More recently, I have been investigating how best to incorporate equity considerations into transmission modelling studies, and maintain an honorary position in this group, with a specific focus on health inequality.
 
-For a full list of publications please see [<i class="ai ai-google-scholar-square ai-3x"></i>](https://scholar.google.com/citations?user=X0RRgYkAAAAJ&hl=en)
+For a full list of publications please see <i class="ai ai-google-scholar-square ai-3x"></i>(https://scholar.google.com/citations?user=X0RRgYkAAAAJ&hl=en)
