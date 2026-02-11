@@ -21,5 +21,6 @@ social_links:
 plugins:
   - jekyll-remote-theme
 
-remote_theme: CloudCannon/vonge-jekyll-bookshop-template
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
   
