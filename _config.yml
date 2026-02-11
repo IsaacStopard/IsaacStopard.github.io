@@ -1,26 +1,62 @@
-title: [Isaac J. Stopard]
-description: Research Associate | Mathematical biology
-
-# Vonge specific navigation
-navigation:
-  - title: Home
-    link: /
-  - title: About
-    link: /about/
-  - title: Research
-    link: /research/
-  - title: Publications
-    link: /publications/
-
-# Social Links (Vonge often displays these in the footer/header)
-social_links:
-  - title: Google Scholar
-    icon: google-scholar
-    link: https://scholar.google.com/citations?user=X0RRgYkAAAAJ
-
-plugins:
-  - jekyll-remote-theme
-
+# Site Settings
+title: "Isaac J Stopard"
+description: "Postdoctoral researcher"
+url: "https://isaacstopard.github.io" 
+baseurl: ""
+repository: "IsaacStopard/IsaacStopard.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
+
+# Site Language & Analytics
+locale: "en-GB"
+google_fonts:
+  - family: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+
+# Author Sidebar
+author:
+  name   : "Isaac J Stopard"
+  avatar : "profile.jpg"
+  bio    : "Epidemiology, Ecology & Health Economics"
+  location: "London, UK"
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=X0RRgYkAAAAJ"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/IsaacStopard"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "isaacstopard@hotmail.co.uk"
+
+# Navigation Links
+navigation:
+  main:
+    - title: "Home"
+      url: /
+    - title: "About"
+      url: /about/
+    - title: "Research"
+      url: /research/
+
+# Defaults for Pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true # Shows your photo/bio on every page
+      share: false
+      comments: false
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-include-cache
   
+head_scripts:
+  - "https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"
