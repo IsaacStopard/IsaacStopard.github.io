@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+remote_theme: CloudCannon/vonge-jekyll-bookshop-template
+title: [Isaac J. Stopard]
+description: Research Associate | Mathematical biology
+
+# Vonge specific navigation
+navigation:
+  - title: Home
+    link: /
+  - title: About
+    link: /about/
+  - title: Research
+    link: /research/
+  - title: Publications
+    link: /publications/
+
+# Social Links (Vonge often displays these in the footer/header)
+social_links:
+  - title: Google Scholar
+    icon: google-scholar
+    link: https://scholar.google.com/citations?user=X0RRgYkAAAAJ
+  
