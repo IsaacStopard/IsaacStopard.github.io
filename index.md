@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Home
+layout: single
+author_profile: true
+title: "About"
 ---
-
-<link rel="stylesheet" href="/css/academicons.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 <img src="/profile-pic.jpg" alt="Your Name" style="float: right; width: 250px; margin-left: 20px; border-radius: 10px;">
 
@@ -14,7 +14,7 @@ I research epidemiology, ecology and health economics. My research has spanned m
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px;">
 
-  <div style="flex: 1; min-width: 200px; max-width: 300px; text-align: center;">
+  <div style="flex: 1; min-width: 20px; max-width: 30px; text-align: center;">
     <a href="/about/">
       <img src="/rnli.jpg" alt="About" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover;">
       <p><strong>About</strong></p>
