@@ -30,16 +30,6 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "isaacstopard@hotmail.co.uk"
 
-# Navigation Links
-navigation:
-  main:
-    - title: "Home"
-      url: /
-    - title: "About"
-      url: /about/
-    - title: "Research"
-      url: /research/
-
 # Defaults for Pages
 defaults:
   - scope:
