@@ -11,9 +11,9 @@ layout: splash
 <h1 style="color: #3498db; font-weight: bold; margin-top: 0;">Hi, I'm Isaac</h1>
 Epidemiologist, Ecologist and Mathematical Modeller. I research the impact of socioeconomic inequality, environmental variables and public health interventions on infectious disease transmission.
 
-<div style="clear: both; margin-top: 40px;"></div>
+<div style="clear: both; margin-top: 50px;"></div>
 
-<h1 style="color: #3498db; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 10px;">Explore</h1>
+<h1 style="color: #3498db; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 0px;">Explore</h1>
 
   <div style="clear: both;"></div> <style>
     /* Container for the grid */
@@ -22,14 +22,14 @@ Epidemiologist, Ecologist and Mathematical Modeller. I research the impact of so
       flex-wrap: wrap;
       gap: 30px; 
       justify-content: flex-start;
-      margin-top: 60px;
+      margin-top: 15px;
     }
 
     /* The container for each item */
     .explore-item {
       position: relative;
-      flex: 1 1 280px; /* Adjusts size based on screen width */
-      max-width: 400px;
+      flex: 0 1 200px; /* Adjusts size based on screen width */
+      max-width: 250px;
       overflow: hidden;
       border-radius: 12px;
       aspect-ratio: 1/1;
@@ -70,9 +70,9 @@ Epidemiologist, Ecologist and Mathematical Modeller. I research the impact of so
 
     .overlay-text {
       color: white;
-      font-size: 24px;
+      font-size: 20px;
       font-weight: bold;
-      text-transform: uppercase;
+      text-transform: lowercase;
       letter-spacing: 1px;
     }
   </style>
