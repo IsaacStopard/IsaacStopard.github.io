@@ -1,3 +1,9 @@
+---
+layout: single
+title: "About Me"
+permalink: /about/
+author_profile: true
+---
 
 I have worked at [Imperial College London](https://www.imperial.ac.uk/) and [University of New South Wales Sydney](https://www.unsw.edu.au/).
 
