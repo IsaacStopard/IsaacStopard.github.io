@@ -1,12 +1,5 @@
 ---
 layout: splash
-header:
-  overlay_image: /assets/images/hero-background.jpg
-  overlay_filter: 0.5
-  actions:
-    - label: "<i class='ai ai-google-scholar'></i> Google Scholar"
-      url: "https://scholar.google.com/citations?user=X0RRgYkAAAAJ"
-excerpt: "Postdoctoral researcher<br /> <small></small>"
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
