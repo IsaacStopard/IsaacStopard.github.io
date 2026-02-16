@@ -16,11 +16,12 @@ google_fonts:
 # Author Sidebar
 author:
   name   : ""
-  avatar : "profile.jpg"
-  bio    : "Epidemiology, Ecology & Health Economics"
+  home: false
+  # avatar : "profile.jpg"
+  # bio    : "Epidemiology, Ecology & Health Economics"
   links:
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=X0RRgYkAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
