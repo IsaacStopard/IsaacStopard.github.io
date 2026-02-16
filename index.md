@@ -9,7 +9,7 @@ author_profile: false
 <img src="/profile-pic.jpg" alt="Isaac J Stopard" style="float: right; width: 250px; margin: 0 0 20px 20px; border-radius: 10px;">
 
 <h1 style="color: #3498db; font-weight: bold; margin-top: 0;">Hello, I'm Isaac,</h1>
-Epidemiologist, Ecologist and Mathematical Modeller. I research the impact of socioeconomic inequality, environmental variables and public health interventions on infectious disease transmission.
+Epidemiologist and Mathematical Modeller. I research the impact of socioeconomic inequality, environmental variables and public health interventions on infectious disease transmission.
 
 <div style="clear: both; margin-top: 50px;"></div>
 
