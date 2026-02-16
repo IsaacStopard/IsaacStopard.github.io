@@ -2,6 +2,23 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 
 <style>
+
+  /* Removes the sidebar area and lets the main content take up the full width */
+  .sidebar {
+    display: none !important;
+  }
+
+  .archive, .page, .page__content {
+    width: 75% !important;
+    padding-right: 0 !important;
+  }
+
+  /* This ensures the 'wide' class actually fills the screen */
+  .wide {
+    max-width: 100%; /* You can set this to 100% for true full-screen */
+    margin: 0 auto;
+  }
+  
   /* 1. Layout: Pulls links and icons apart */
   .masthead__menu-items {
     display: flex !important;
