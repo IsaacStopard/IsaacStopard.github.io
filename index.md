@@ -28,8 +28,8 @@ Epidemiologist, Ecologist and Mathematical Modeller. I research the impact of so
     /* The container for each item */
     .explore-item {
       position: relative;
-      flex: 0 1 200px; /* Adjusts size based on screen width */
-      max-width: 250px;
+      flex: 1 1 200px; /* Adjusts size based on screen width */
+      max-width: 300px;
       overflow: hidden;
       border-radius: 12px;
       aspect-ratio: 1/1;
@@ -67,12 +67,12 @@ Epidemiologist, Ecologist and Mathematical Modeller. I research the impact of so
     .explore-item:hover img {
       transform: scale(1.05);
     }
-
+    
     .overlay-text {
       color: white;
       font-size: 20px;
       font-weight: bold;
-      text-transform: lowercase;
+      text-transform: none;
       letter-spacing: 1px;
     }
   </style>
