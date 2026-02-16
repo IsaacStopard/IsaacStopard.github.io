@@ -1,8 +1,10 @@
 ---
 layout: single
-title: "About Me"
+title: "About"
 permalink: /about/
 author_profile: true
+author:
+  name: "" # Removes name from sidebar on this page
 ---
 
 I have worked at [Imperial College London](https://www.imperial.ac.uk/) and [University of New South Wales Sydney](https://www.unsw.edu.au/).
