@@ -1,5 +1,7 @@
 ---
-layout: splash
+layout: single
+classes: wide
+author_profile: false
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
