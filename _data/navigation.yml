@@ -5,3 +5,9 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "<span class='nav-icons'><i class='ai ai-google-scholar'></i></span>"
+    url: "https://scholar.google.com/citations?user=X0RRgYkAAAAJ"
+  - title: "<span class='nav-icons'><i class='fab fa-fw fa-bluesky'></i></span>"
+    url: "https://bsky.app/profile/isaacstopard.bsky.social"
+  - title: "<span class='nav-icons'><i class='fab fa-fw fa-github'></i></span>"
+    url: "https://github.com/IsaacStopard"
