@@ -6,11 +6,14 @@ layout: splash
 
 <div style="max-width: 900px; margin: 0 auto; padding: 40px 20px;">
 
-  <img src="/profile-pic.jpg" alt="Isaac J Stopard" style="float: right; width: 250px; margin: 0 0 20px 20px; border-radius: 10px;">
+<img src="/profile-pic.jpg" alt="Isaac J Stopard" style="float: right; width: 250px; margin: 0 0 20px 20px; border-radius: 10px;">
 
-  # Hi, I'm Isaac
-  
-  I research the impact of socioeconomic inequality, environmental variables and public health interventions on infectious disease transmission.
+<h1 style="color: #3498db; font-weight: bold; margin-top: 0;">Hi, I'm Isaac</h1>
+Epidemiologist, Ecologist and Mathematical Modeller. I research the impact of socioeconomic inequality, environmental variables and public health interventions on infectious disease transmission.
+
+<div style="clear: both; margin-top: 40px;"></div>
+
+<h1 style="color: #3498db; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 10px;">Explore</h1>
 
   <div style="clear: both;"></div> <style>
     /* Container for the grid */
