@@ -1,42 +1,46 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 <style>
-  /* 1. Reset the masthead to use Flexbox */
+  /* 1. Layout: Pulls links and icons apart */
   .masthead__menu-items {
     display: flex !important;
     align-items: center;
     width: 100%;
+    list-style: none;
     margin: 0;
     padding: 0;
-    list-style: none;
   }
 
-  /* 2. Style the standard text links (About, Research) */
+  /* 2. Text Links (About, Research) */
   .masthead__menu-item {
     margin-left: 20px !important;
   }
 
-  /* 3. Push the icons to the right */
-  /* This targets the menu item containing our custom icon class */
+  /* 3. The Separator: Pushes icons to the right */
+  /* This targets the first item that contains an icon and pushes it right */
   .masthead__menu-item:has(.nav-icons) {
     margin-left: auto !important;
   }
 
-  /* 4. Make icons smaller and adjust color */
+  /* 4. Small & Close Icons */
   .nav-icons i {
-    font-size: 0.9em !important;
+    font-size: 0.75em !important; /* Slightly smaller than before */
     color: #666;
     transition: color 0.3s;
   }
 
+  /* Reduce gap between the icons themselves */
+  .masthead__menu-item:has(.nav-icons) + .masthead__menu-item {
+    margin-left: 10px !important; /* Closer together */
+  }
+
+  /* 5. Clean up Hover Repetition */
   .nav-icons i:hover {
     color: #000;
   }
 
-  /* 5. Space out the icons from each other */
-  .masthead__menu-item:has(.nav-icons) ~ .masthead__menu-item {
-    margin-left: 15px !important;
-  }
-
-  /* 6. Ensure Masthead looks good on Mobile */
+  /* Mobile adjustment */
   @media (max-width: 600px) {
     .masthead__menu-items {
       flex-wrap: wrap;
