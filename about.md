@@ -2,7 +2,7 @@
 layout: single
 title: "About"
 permalink: /about/
-author_profile: true
+author_profile: false
 author:
   name: "" # Removes name from sidebar on this page
 ---
