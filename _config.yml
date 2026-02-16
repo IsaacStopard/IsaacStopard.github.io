@@ -18,7 +18,6 @@ author:
   name   : "Isaac J Stopard"
   avatar : "profile.jpg"
   bio    : "Epidemiology, Ecology & Health Economics"
-  location: "London, UK"
   links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
@@ -26,9 +25,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/IsaacStopard"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "isaacstopard@hotmail.co.uk"
 
 # Defaults for Pages
 defaults:
