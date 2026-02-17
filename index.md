@@ -87,7 +87,7 @@ Epidemiologist and Computational Biologist. I research the impact of socioeconom
     </a>
 
     <a href="/research/" class="explore-item">
-      <img src="/assets/images/research-thumb.jpg" alt="Research">
+      <img src="/assets/images/EIP_temp.jpg" alt="Research">
       <div class="overlay">
         <div class="overlay-text">Research</div>
       </div>
