@@ -94,5 +94,3 @@ Epidemiologist and Computational Biologist. I research the impact of socioeconom
     </a>
 
   </div>
-
-</div>
