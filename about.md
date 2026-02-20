@@ -3,8 +3,6 @@ layout: single
 title: "About"
 permalink: /about/
 author_profile: false
-author:
-name: "" # Removes name from sidebar on this page
 classes: wide
 ---
 
@@ -43,15 +41,15 @@ Education: PhD in the [Quantitative Methods in Ecology and Evolution Centre for 
 <div class="photo-grid">
   
   <div class="photo-item">
-    <img src="/rnli.jpg" alt="">
+    <img src="{{ '/rnli.jpg' | relative_url }}" alt="RNLI">
   </div>
   <div class="photo-item">
-    <img src="/lifeguard_wave.jpg" alt="">
+    <img src="{{ '/lifeguard_wave.jpg' | relative_url }}" alt="RNLI">
   </div>
   <div class="photo-item">
-    <img src="/surf_bantham_backhand_snap.jpg" alt="">
+    <img src="{{ '/surf_bantham_backhand_snap.jpg' | relative_url }}" alt="RNLI">
   </div>
   <div class="photo-item">
-    <img src="/surf_lakey.jpg" alt="">
+    <img src="{{ '/surf_lakey.jpg' | relative_url }}" alt="RNLI">
   </div>
 </div>
