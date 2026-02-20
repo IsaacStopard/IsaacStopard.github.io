@@ -6,7 +6,7 @@ author_profile: false
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<img src="/profile-pic.jpg" alt="Isaac J Stopard" style="float: right; width: 250px; margin: 0 0 20px 20px; border-radius: 10px;">
+#<img src="/profile-pic.jpg" alt="Isaac J Stopard" style="float: right; width: 250px; margin: 0 0 20px 20px; border-radius: #10px;">
 
 <h1 style="color: #3498db; font-weight: bold; margin-top: 0;">Hello, I'm Isaac,</h1>
 Epidemiologist and Computational Biologist. I research the impact of socioeconomic inequality, environmental variables and public health interventions on infectious disease transmission.
@@ -28,8 +28,8 @@ Epidemiologist and Computational Biologist. I research the impact of socioeconom
     /* The container for each item */
     .explore-item {
       position: relative;
-      flex: 0 1 200px; /* Adjusts size based on screen width */
-      max-width: 250px;
+      flex: 1 1 200px; /* Adjusts size based on screen width */
+      max-width: 300px;
       overflow: hidden;
       border-radius: 12px;
       aspect-ratio: 1/1;
@@ -80,7 +80,7 @@ Epidemiologist and Computational Biologist. I research the impact of socioeconom
   <div class="explore-grid">
 
     <a href="/about/" class="explore-item">
-      <img src="/rnli.jpg" alt="About">
+      <img src="/profile-pic.jpg" alt="About">
       <div class="overlay">
         <div class="overlay-text">About</div>
       </div>
