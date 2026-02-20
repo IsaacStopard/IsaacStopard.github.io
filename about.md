@@ -41,13 +41,17 @@ Education: PhD in the [Quantitative Methods in Ecology and Evolution Centre for 
 </style>
 
 <div class="photo-grid">
+  
   <div class="photo-item">
-    <img src="lifeguard_wave.jpg" alt="">
+    <img src="/rnli.jpg" alt="">
   </div>
   <div class="photo-item">
-    <img src="surf_bantham_backhand_snap.jpg" alt="">
+    <img src="/lifeguard_wave.jpg" alt="">
   </div>
   <div class="photo-item">
-    <img src="surf_lakey.jpg" alt="">
+    <img src="/surf_bantham_backhand_snap.jpg" alt="">
+  </div>
+  <div class="photo-item">
+    <img src="/surf_lakey.jpg" alt="">
   </div>
 </div>
