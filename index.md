@@ -9,8 +9,6 @@ author_profile: false
 <h1 style="color: #3498db; font-weight: bold; margin-top: 0;">Hello, I'm Isaac,</h1>
 Epidemiologist and Computational Biologist. I research the impact of socioeconomic inequality, environmental variables and public health interventions on infectious disease transmission.
 
-<div style="max-width: 1200px; margin: 0 auto; padding: 40px 20px; margin-top: 50px;">
-
 <h1 style="color: #3498db; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 0px;">Explore</h1>
 
   <div style="clear: both;"></div> <style>
