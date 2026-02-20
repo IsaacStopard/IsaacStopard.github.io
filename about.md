@@ -51,5 +51,3 @@ Education: PhD in the [Quantitative Methods in Ecology and Evolution Centre for 
     <img src="surf_lakey.jpg" alt="">
   </div>
 </div>
-
-</div>
