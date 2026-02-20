@@ -6,8 +6,7 @@ author_profile: false
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<h1 style="color: #3498db; font-weight: bold; margin-top: 0;">Hello, I'm Isaac,</h1>
-Epidemiologist and Computational Biologist. I research the impact of socioeconomic inequality, environmental variables and public health interventions on infectious disease transmission.
+Hello, I'm Isaac. Epidemiologist and Computational Biologist. I research the impact of socioeconomic inequality, environmental variables and public health interventions on infectious disease transmission.
 
 <h1 style="color: #3498db; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 0px;">Explore</h1>
 
