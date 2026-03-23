@@ -6,7 +6,9 @@ author_profile: false
 classes: wide
 ---
 
-I am an interdisciplinary researcher, drawing on knowledge and methods from epidemiology, statistics, economics and ecology. Globally, measures of death due to infectious diseases have reduced; disease burden, however, remains concentrated in areas and people with lower socioeconomic status. My research has spanned multiple scales and methods but broadly aims to guide data-driven decision making by quantifying the impact of socioeconomic factors, environmental variables and public health interventions to reduce both the absolute burden and inequality of infectious disease transmission. Outside of work I'm a keen explorer. I've spent most of my income on rent, but what's left I've spent on surf trips; and I've been incredibly lucky to travel for work. I enjoy running and swimming.
+Hello, I'm Isaac. I am a Computational Biologist, drawing on knowledge and methods from epidemiology, statistics, economics and ecology. Globally, measures of death due to infectious diseases have reduced; disease burden, however, remains concentrated in areas and people with lower socioeconomic status. My research has spanned multiple scales and methods but broadly aims to guide data-driven decision making by quantifying the impact of socioeconomic factors, environmental variables and public health interventions to reduce both the absolute burden and inequality of infectious disease transmission. 
+
+Outside of work I'm a keen surfer. I've spent most of my income on rent, but what's left I've spent on surf trips. And, I've been incredibly lucky to travel for work. I enjoy running and swimming.
 
 Work: postdoctoral research at [Imperial College London](https://www.imperial.ac.uk/) and the [University of New South Wales Sydney](https://www.unsw.edu.au/). Ecologist at a specialist consultancy ([Fishtek Consulting](https://www.fishtek.co.uk/)). Beach lifeguard.
 
