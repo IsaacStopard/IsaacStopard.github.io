@@ -33,7 +33,7 @@ author_profile: false
     .explore-item img {
       width: 100%;
       height: 100%;
-      object-fit: cover;
+      object-fit: contain;
       transition: transform 0.5s ease;
     }
 
@@ -73,14 +73,14 @@ author_profile: false
   <div class="explore-grid">
 
     <a href="/about/" class="explore-item">
-      <img src="/photos/profile-pic.jpg" alt="About">
+      <img src="/photos/lifeguard_wave.jpg" alt="About">
       <div class="overlay">
         <div class="overlay-text">About</div>
       </div>
     </a>
 
     <a href="/research/" class="explore-item">
-      <img src="/photos/mSOS.jpg" alt="Research">
+      <img src="/photos/bed_net.jpg" alt="Research">
       <div class="overlay">
         <div class="overlay-text">Research</div>
       </div>

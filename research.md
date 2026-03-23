@@ -8,8 +8,6 @@ classes: wide
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<h1 style="color: #3498db; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 0px;">Explore</h1>
-
 <div style="clear: both;"></div> 
 
 <style>
