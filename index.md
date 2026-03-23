@@ -73,14 +73,14 @@ author_profile: false
   <div class="explore-grid">
 
     <a href="/about/" class="explore-item">
-      <img src="/profile-pic.jpg" alt="About">
+      <img src="/photos/profile-pic.jpg" alt="About">
       <div class="overlay">
         <div class="overlay-text">About</div>
       </div>
     </a>
 
     <a href="/research/" class="explore-item">
-      <img src="/EIP_temp.jpg" alt="Research">
+      <img src="/photos/mSOS.jpg" alt="Research">
       <div class="overlay">
         <div class="overlay-text">Research</div>
       </div>
