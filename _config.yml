@@ -20,7 +20,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true # Shows your photo/bio on every page
+      author_profile: false # Shows your photo/bio on every page
       share: false
       comments: false
 

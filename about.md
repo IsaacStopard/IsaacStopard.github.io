@@ -9,7 +9,7 @@ classes: wide
 <style>
   .profile-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     gap: 40px;
     align-items: flex-start;
     margin-bottom: 40px;
