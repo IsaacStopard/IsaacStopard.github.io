@@ -11,6 +11,35 @@ classes: wide
 <div style="clear: both;"></div> 
 
 <style>
+  /* 1. Remove the 'ghost' margin from the left where the sidebar lived */
+  .layout--single .page__content {
+    float: none !important;
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
+
+  /* 2. Expand the main container to fill the screen width */
+  #main {
+    max-width: 95% !important; /* Adjust to 100% if you want zero margins */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* 3. Force the page header and content to align to the new width */
+  .page__inner-wrap {
+    float: none !important;
+    width: 100% !important;
+  }
+
+  /* 4. Ensure the 'wide' class is actually edge-to-edge */
+  .wide {
+    max-width: none !important;
+  }
+</style>
+
+<style>
   /* Container for the grid - using CSS Grid for better standardization */
   .explore-grid {
     display: grid;
